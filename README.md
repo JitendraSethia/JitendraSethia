@@ -81,9 +81,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JitendraSethia&show_icons=true&theme=tokyonight" alt="Jitendra's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JitendraSethia&theme=tokyonight" alt="Jitendra's Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JitendraSethia&layout=compact&theme=tokyonight" alt="Jitendra's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JitendraSethia&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JitendraSethia&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JitendraSethia&layout=compact&theme=tokyonight" />
 </p>
 
 ---
