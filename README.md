@@ -81,11 +81,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JitendraSethia&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JitendraSethia&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JitendraSethia&layout=compact&theme=tokyonight" />
 </p>
 
+<p align="center">
+  </p>
+  
 ---
 
 ## 🐍 Contribution Snake
