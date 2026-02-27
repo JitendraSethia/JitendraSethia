@@ -11,7 +11,7 @@
 
 🎓 3rd Year Software Engineering Student
 🎸 Musician | Rhythm 🎧
-🐶 Feeding community animals & supporting sterilization drives for 5+ years
+🐶 Feeding community animals
 💡 Passionate about building real-world problem-solving projects
 
 * Interacted with **10+ clients** 
@@ -33,15 +33,46 @@
 
 ## 🛠 Tech Stack
 
-**Programming Languages:** Python | Java | C | JavaScript | SQL
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 
-**Frontend Technologies:** React.js | HTML | CSS | Responsive Web Design
+---
 
-**Backend Technologies:** Node.js | RESTful API Development | Database Design | Admin Dashboard Development | Authentication Systems (Twilio OTP Integration)
+### 🎨 Frontend Technologies
+![React](https://img.shields.io/badge/React-black?logo=react)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Web_Design-success)
 
-**AI/ML Technologies:** Machine Learning Fundamentals | Generative AI | Agentic AI Concepts | AI Automation Projects
+---
 
-**Development Tools:** Git | PyCharm | VS Code | Postman | Vercel Deployment
+### ⚙️ Backend Technologies
+![NodeJS](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-ff69b4)
+![Database Design](https://img.shields.io/badge/Database_Design-blueviolet)
+![Admin Dashboard](https://img.shields.io/badge/Admin_Dashboard-orange)
+![Twilio OTP](https://img.shields.io/badge/Twilio_OTP-red?logo=twilio)
+
+---
+
+### 🤖 AI / ML Technologies
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue)
+![Generative AI](https://img.shields.io/badge/Generative_AI-purple)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-black)
+![AI Automation](https://img.shields.io/badge/AI_Automation-success)
+
+---
+
+### 🛠 Development Tools
+![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?logo=visualstudiocode)
+![PyCharm](https://img.shields.io/badge/PyCharm-green?logo=pycharm)
+![Postman](https://img.shields.io/badge/Postman-orange?logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
 
 **Core Competencies:** Full-Stack Development • Backend System Design • Client Requirement Analysis • Team Leadership • Hackathon Problem Solving • Agile Methods • Research & Development
 
@@ -69,4 +100,4 @@
 
 ---
 
-⭐ Fun Fact: When not coding, I’m playing guitar/drums or feeding street dogs 🐕
+⭐ Fun Fact: When not coding, I’m playing guitar/drums or feeding community animals
