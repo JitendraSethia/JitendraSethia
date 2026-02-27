@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+GramLink+%26+Farm+Link;Full+Stack+Developer;Solving+Real+World+Problems;Musician+Rhythm🎧&center=true&width=500&height=45">
 </p>
+
 ---
 
 ## 🚀 About Me
