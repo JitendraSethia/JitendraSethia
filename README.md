@@ -4,10 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+GramLink+%26+Farm+Link;AI+%26+Full+Stack+Developer;Helping+Farmers+With+Tech;Musician+Rhythm🎧&center=true&width=500&height=45">
 </p>
-# 👋 Hi, I'm Jitendra Sethia
-
-🎓 3rd Year Software Engineering Student
-🎸 Musician | Rhythm 🎧
 🐶 Feeding community animals & supporting sterilization drives
 🚀 Passionate about building projects that solve real-world problems
 
