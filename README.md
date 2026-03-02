@@ -100,6 +100,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JitendraSethia-blue?style=for-the-badge\&logo=linkedin)](http://linkedin.com/in/jitendra-sethia-b9aa3a342/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge\&logo=gmail)](mailto:jitendrasethiaofficial@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-Rhythm🎧-purple?style=for-the-badge\&logo=instagram)](https://www.instagram.com/jitendra.sethiaa/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Jitendra%20Sethia-blue?style=for-the-badge&logo=vercel)](https://jitendra-sethia.vercel.app)
 
 ---
 
