@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jitendra Sethia</h1>
-<h3 align="center">3rd Year Software Engineering Student • Full-Stack Developer • Musician Rhythm 🎧</h3>
+<h3 align="center">4th Year Software Engineering Student • Full-Stack Developer • Musician Rhythm 🎧</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+GramLink+%26+Farm+Link;Full+Stack+Developer;Solving+Real+World+Problems;Musician+Rhythm🎧&center=true&width=500&height=45">
